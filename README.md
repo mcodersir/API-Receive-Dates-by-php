@@ -1,5 +1,7 @@
 # API-Receive-Dates-by-php
-![شمسی-و-قمری-750x400](https://github.com/user-attachments/assets/70031d78-ae6e-47a1-bb88-d9070e243309)
+![Untitled-2](https://github.com/user-attachments/assets/7ae2e055-2dac-46e1-9b6e-c443e7e246e8)
+
+
 # تاریخ های شمسی و قمری و میلادی و حتی برج فلکی را دریافت کنید
 برای استفاده از این api تنها لازم است در ترمینال خود دستور زیر را وارد کنید تا پیش نیاز های دانلود شوند تا بتوانید به سریعترین نحو ممکن از این api استفاده کنید:
 # نحوه نصب
@@ -28,4 +30,4 @@
    ```bash
    composer require fabpot/goutte
    ```
-
+4. **سپس فایل های مربوطه را دانلود و استفاده کنید**
